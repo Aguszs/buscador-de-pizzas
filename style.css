@@ -1,0 +1,23 @@
+.pizza-card {
+  background-color: #fff;
+  padding: 20px;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.pizza-card img {
+  width: 100px;
+  height: 100px;
+  margin: 20px;
+  border-radius: 50%;
+}
+
+.error-message {
+ /*  color: #red;
+  font-weight: bold;
+  padding: 20px */
+  color: red;
+  font-weight: bold;
+  padding-left: 20px;
+};
